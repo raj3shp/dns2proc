@@ -8,6 +8,11 @@ While eBPF-based solutions exist for modern kernels, older Linux systems lack ef
 
 Useful for incident response and forensic investigations. 
 
+## Requirements
+- Linux
+- tcpdump
+- auditd
+
 ## Limitations
 
 **Accuracy Disclaimer**: This script provides correlation based on timing and auditd events, but is not 100% accurate. Several factors can affect correlation accuracy:
