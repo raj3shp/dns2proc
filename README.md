@@ -9,7 +9,6 @@ While eBPF-based solutions exist for modern kernels, older Linux systems lack ef
 Useful for incident response and forensic investigations. 
 
 ## Requirements
-- Linux
 - tcpdump
 - auditd
 
