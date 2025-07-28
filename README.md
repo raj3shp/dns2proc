@@ -14,6 +14,6 @@ Useful for incident response and forensic investigations.
 
 ## Limitations
 
-**Accuracy Disclaimer**: This script provides correlation based on timing and auditd events, but is not 100% accurate. Several factors can affect correlation accuracy:
+**Accuracy Disclaimer**: This script provides correlation based on timing and auditd events, but is not 100% accurate. Several factors can affect correlation accuracy.
 
 **Manual verification is always required** for critical investigations. This script should be used as part of a comprehensive forensic analysis workflow, not as the sole source of truth. Always cross-reference results with additional logs, system state analysis, and other forensic evidence.
